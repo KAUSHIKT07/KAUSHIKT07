@@ -1,6 +1,6 @@
 
 <h1><strong>KAUSHIK</strong></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkargutkar&label=Views&color=blue&style=plastic" alt="sahilkargutkar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KAUSHIKT07&label=Views&color=blue&style=plastic" alt="KAUSHIK" /> </p>
 
 <a href="https://twitter.com/Kaushik82959670?s=09">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -30,7 +30,7 @@
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: I love playing Football and Singing
 
-<img src ="https://github-readme-stats.vercel.app/api?username=sahilkargutkar&&show_icons=true&title_color=#00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src ="https://github-readme-stats.vercel.app/api?username=KAUSHIKT07&&show_icons=true&title_color=#00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
