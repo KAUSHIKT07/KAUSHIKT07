@@ -28,7 +28,7 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: kaushikpvt@gmail.com
 - 😄 Pronouns:He/Him
-- ⚡ Fun fact: I love playing Football and Singing
+- ⚡ Fun fact: I love playing Football and Singing.
 
 <img src ="https://github-readme-stats.vercel.app/api?username=KAUSHIKT07&&show_icons=true&title_color=#00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 **Languages and Tools:**  
