@@ -25,8 +25,8 @@
 - 🌱 I’m currently learning Flutter and MongoDB
 - 👯 I’m looking to collaborate on HTML CSS and JavsScript
 - 🤔 I’m looking for help with MongoDB
-- 💬 Ask me about Anything
-- 📫 How to reach me: kaushikpvt@gmail.com
+- 💬 Ask me about Python
+- 📫 How to reach me: Kaushikt421@gmail.com
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: I love playing Football and Singing.
 
