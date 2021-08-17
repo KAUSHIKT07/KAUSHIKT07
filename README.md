@@ -26,7 +26,7 @@
 - 👯 I’m looking to collaborate on HTML CSS and JavsScript
 - 🤔 I’m looking for help with MongoDB
 - 💬 Ask me about Python
-- 📫 How to reach me: Kaushikt421@gmail.com
+- 📫 How to reach me: mailkausshik@gmail.com
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: I love playing Football and Singing.
 
