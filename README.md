@@ -24,6 +24,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/iamkausshik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/iamkausshik" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/iamkausshik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamkausshik/" height="30" width="40" /></a>
 </p>
+<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align='center'>
@@ -49,10 +50,11 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
+<br><br> 
  
 <h3 align="left">GitHub Stats🎯:</h3>
 <img src ="https://github-readme-stats.vercel.app/api?username=KAUSHIKT07&&show_icons=true&title_color=#00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+<br><br>
 
   
 <h3 align="left">Just a Snake 🐍 Eating away my Contribution...😭</h3>
