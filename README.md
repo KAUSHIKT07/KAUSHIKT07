@@ -57,7 +57,10 @@
 
 
 <h3 align="left">Support:</h3>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/aNeyXVMrED6fUO1Exy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/TOEIAnimationUK-one-piece-luffy-gold-aNeyXVMrED6fUO1Exy">via GIPHY</a></p>
+<br>
+<p align='center'>
+<img src="https://giphy.com/embed/aNeyXVMrED6fUO1Exy" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/iamkausshik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/iamkausshik" /></a></p><br><br>
 
 
