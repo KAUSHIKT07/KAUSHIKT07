@@ -49,8 +49,12 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
+ 
+  
+<img src ="https://github-readme-stats.vercel.app/api?username=KAUSHIKT07&&show_icons=true&title_color=#00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
+  
 <h3 align="left">Just a Snake 🐍 Eating away my Contribution...😭</h3>
 
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
