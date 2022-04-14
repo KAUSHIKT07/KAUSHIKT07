@@ -59,7 +59,7 @@
 <h3 align="left">Support:</h3>
 <br>
 <p align='center'>
-<img src="https://giphy.com/embed/aNeyXVMrED6fUO1Exy" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://tenor.com/view/one-piece-luffy-funny-chopper-gif-20347259" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/iamkausshik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/iamkausshik" /></a></p><br><br>
 
