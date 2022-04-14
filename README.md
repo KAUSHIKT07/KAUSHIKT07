@@ -53,7 +53,7 @@
 <br><br> 
  
 <h3 align="left">GitHub Stats🎯:</h3>
-<img src ="https://github-readme-stats.vercel.app/api?username=KAUSHIKT07&&show_icons=true&title_color=#00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src ="https://github-readme-stats.vercel.app/api?username=KAUSHIKT07&&show_icons=true&title_color=#black&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br><br>
 
   
