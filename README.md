@@ -67,8 +67,7 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
-<p align='center'>
-<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/iamkausshik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/iamkausshik" /></a></p><br><br>
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 
 
 
