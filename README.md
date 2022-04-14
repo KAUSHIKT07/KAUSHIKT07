@@ -50,7 +50,7 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
  
-  
+<h3 align="left">GitHub Stats🎯:</h3>
 <img src ="https://github-readme-stats.vercel.app/api?username=KAUSHIKT07&&show_icons=true&title_color=#00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
