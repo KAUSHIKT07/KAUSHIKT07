@@ -57,6 +57,7 @@
 
 
 <h3 align="left">Support:</h3>
+<div class="tenor-gif-embed" data-postid="13959864" data-share-method="host" data-aspect-ratio="1.23077" data-width="100%"><a href="https://tenor.com/view/bow-thank-you-youre-welcome-respect-om-nom-gif-13959864">Bow Thank You Sticker</a>from <a href="https://tenor.com/search/bow-stickers">Bow Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/iamkausshik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/iamkausshik" /></a></p><br><br>
 
 
